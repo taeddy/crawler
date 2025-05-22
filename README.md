@@ -9,7 +9,7 @@
 - `croll_news_comment.py` : 네이버 뉴스 기사에서 댓글을 수집하는 스크립트  
 
 ## 🗒️ 사용된 라이브러리
-- 'requests', 'selenium'
+- `requests`, `selenium`
 
 # 📌 주의 사항
 - 크롤링 시 인터넷 연결이 필요합니다.
